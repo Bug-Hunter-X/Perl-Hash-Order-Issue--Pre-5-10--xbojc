@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Perl related to the unordered nature of Perl hashes in versions prior to 5.10.  The `bug.pl` file shows the problem, while `bugSolution.pl` offers solutions.  This is a common pitfall for programmers coming from languages with ordered hashmaps or dictionaries.
